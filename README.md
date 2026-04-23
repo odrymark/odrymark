@@ -4,7 +4,7 @@
 
 **Computer Science Student · Developer**
 
-📍 Tjæreborg, Denmark &nbsp;|&nbsp; 🎓 Erhvervsakademi SydVest (2024)
+📍 Esbjerg, Denmark &nbsp;|&nbsp; 🎓 Erhvervsakademi SydVest (2024)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mark-odry-361463405)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/odrymark)
