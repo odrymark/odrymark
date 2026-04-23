@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Computer Science student at Business Academy South West in Denmark. I really enjoy building software across the full stack — from backend systems and databases to frontend interfaces and AI models. I have a strong interest in **Cybersecurity**, **Penetration testing** **DevOps**, and **AI**.
+I'm a Computer Science student at Business Academy South West in Denmark. I really enjoy building software across the full stack — from backend systems and databases to frontend interfaces and AI models. I have a strong interest in **Cybersecurity**, **Penetration testing**, **DevOps**, and **AI**.
 
 ---
 
